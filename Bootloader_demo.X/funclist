@@ -1,0 +1,10 @@
+_delay: CODE, 2464 0 58
+_my_isrlo: CODE, 2214 0 138
+_ConfigureOscillator: CODE, 2562 0 2
+_main: CODE, 2522 0 32
+_high_isr: CODE, 2060 0 114
+_InitApp: CODE, 2560 0 2
+__initialization: CODE, 2554 0 0
+_my_isr: CODE, 2174 0 290
+_low_isr: CODE, 2076 0 138
+Total: 774
